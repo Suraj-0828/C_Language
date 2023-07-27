@@ -11,7 +11,7 @@ Variables & Constants
 C Data Types
 4. C Input/Output
 C Operators
-C Introduction Examples
+C Introduction Examples.
 
 # C Flow Control
 C if...else
